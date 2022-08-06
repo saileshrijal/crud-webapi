@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj": {}
+    "d:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj": {}
   },
   "projects": {
-    "D:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj": {
+    "d:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj",
+        "projectUniqueName": "d:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj",
         "projectName": "CandidateApi",
-        "projectPath": "D:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj",
+        "projectPath": "d:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\CandidateApi.csproj",
         "packagesPath": "C:\\Users\\Sailesh\\.nuget\\packages\\",
-        "outputPath": "D:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\obj\\",
+        "outputPath": "d:\\AliveCoder\\Web Api\\DCandidate\\CandidateApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sailesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
